@@ -1,0 +1,15 @@
+table, th, tr {
+	border: 2px solid black;
+
+}
+
+table {
+	margin-top: auto;
+	margin-top: auto;
+	margin-bottom: auto;
+	margin-right: auto;
+}
+
+body {
+	background-color: pink;
+}
